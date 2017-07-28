@@ -20,10 +20,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
+    "height": 600,
     "width": 800,
-    "x": 340,
-    "y": 112
+    "x": -333,
+    "y": -265
   },
   "hasBackgroundColor": false,
   "hasClickThrough": true,
@@ -42,13 +42,17 @@
   "layerListExpandedType": 0,
   "layers": [
     {
+      "class": "group",
+      "id": "4C5E6538-5FAA-4346-8B67-DE4B9AE132B7"
+    },
+    {
       "class": "shapeGroup",
       "id": "37527964-FF62-43B5-BC3B-2916334DB0F5"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
-  "resizesContent": false,
+  "name": "module_a",
+  "nameIsFixed": true,
+  "resizesContent": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

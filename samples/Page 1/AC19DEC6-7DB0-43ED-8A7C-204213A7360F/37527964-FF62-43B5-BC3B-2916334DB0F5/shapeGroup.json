@@ -14,10 +14,10 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 101.375,
-    "width": 254,
-    "x": 163,
-    "y": 146
+    "height": 200,
+    "width": 300,
+    "x": 250,
+    "y": 127
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
@@ -32,9 +32,9 @@
       "id": "3BC1E5D9-0CB0-4947-AC02-98831C6C53E8"
     }
   ],
-  "name": "Rectangle",
-  "nameIsFixed": false,
-  "resizingConstraint": 63,
+  "name": "img",
+  "nameIsFixed": true,
+  "resizingConstraint": 45,
   "resizingType": 0,
   "rotation": 0,
   "shouldBreakMaskChain": false,
@@ -51,7 +51,7 @@
           "red": 0.592
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 1
       }
